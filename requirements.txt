@@ -1,0 +1,14 @@
+rsgislib
+kealib
+numpy
+tqdm
+rios
+scikit-learn 
+scikit-image 
+scikit-optimize
+pandas
+geopandas
+jupyterlab
+ipywidgets
+ipykernel
+Rasterstats
